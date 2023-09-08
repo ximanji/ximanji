@@ -5,7 +5,7 @@ A student who's pursuing a bachelor's degree in computer science. 🎲
 
 * 📍  I'm based in Bochum, Germany
 * 📚  Studying at the Hochschule Bochum
-* 🪆  A mix of gamer, weightlifter and coder
+* 🪆  A mixture of gamer, weightlifter and coder
 * 🌠  Planning to upload some cool projects in the near future! Stay tuned!
 * ⚡  I'm Hulk, and when I play hide and seek, I'm always the easiest to find 😔
 
