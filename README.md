@@ -35,7 +35,7 @@ Find out more about me and feel free to connect with me here:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-27338E?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 💾 Databases
